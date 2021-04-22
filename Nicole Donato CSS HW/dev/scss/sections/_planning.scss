@@ -1,0 +1,18 @@
+/* =============
+    Planning
+============= */
+
+#planning{
+    
+    @include sm{
+        display: grid;
+        grid-template-columns: 16px, auto, 16px ;  
+    }
+
+    >div{
+        @include sm{
+            display: grid;
+            grid-template-columns: 1fr, 1fr;
+        }
+    }
+}

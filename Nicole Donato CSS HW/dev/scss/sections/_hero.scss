@@ -1,0 +1,22 @@
+/* =============
+    Hero
+============= */
+#hero{
+    img{ width: 100%}
+    grid-template-columns: 16px auto 16px;
+}
+
+
+
+
+#morooka{
+    display: grid;
+    padding: 16px;
+    grid-template-columns: 16px, auto ;
+}
+
+#location{
+    display: grid;
+    padding: 16px;
+    grid-template-columns: auto 16px;
+}

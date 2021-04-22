@@ -1,0 +1,30 @@
+/* =============
+    New
+============= */
+#new{
+    display: grid;
+  @include sm{
+      img{width: 100%}
+      #gallery-1{
+          display: grid;
+          padding: 16px;
+      }
+
+      #gallery-2{
+          display: grid;
+          padding: 16px;
+      }
+      #gallery-3{
+        display: grid;
+        padding: 16px;
+    }
+    #gallery-4{
+        display: grid;
+        padding: 16px;
+    }
+    #gallery-5{
+        display: grid;
+        padding: 16px
+    }
+  }  
+}

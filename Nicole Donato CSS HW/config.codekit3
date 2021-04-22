@@ -4,7 +4,7 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "301077FD-6587-4DAE-808A-231B715466F3"
+      "uuidString" : "A7CBDA7B-AA82-4FA0-AD95-EB4A5966B0EA"
     }
   ],
   "creatorBuild" : "34127",
@@ -21,12 +21,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/basics\/choose.jpg" : {
+    "\/deploy\/img\/header\/logo.jpg" : {
       "ft" : 16384,
-      "iS" : 83366,
+      "iS" : 12384,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/choose.jpg",
+      "oAP" : "\/deploy\/img\/header\/logo.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -34,12 +34,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/basics\/greenhouse.jpg" : {
+    "\/deploy\/img\/hero-2\/hero-2-1.jpg" : {
       "ft" : 16384,
-      "iS" : 84826,
+      "iS" : 97866,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/greenhouse.jpg",
+      "oAP" : "\/deploy\/img\/hero-2\/hero-2-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -47,12 +47,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/basics\/pots.jpg" : {
+    "\/deploy\/img\/hero-2\/hero-2-2.jpg" : {
       "ft" : 16384,
-      "iS" : 123069,
+      "iS" : 50432,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/pots.jpg",
+      "oAP" : "\/deploy\/img\/hero-2\/hero-2-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -60,12 +60,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/basics\/shovel.jpg" : {
+    "\/deploy\/img\/hero-2\/hero-2-3.jpg" : {
       "ft" : 16384,
-      "iS" : 68429,
+      "iS" : 62129,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/shovel.jpg",
+      "oAP" : "\/deploy\/img\/hero-2\/hero-2-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -73,12 +73,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/basics\/soil.jpg" : {
+    "\/deploy\/img\/hero\/hero.jpg" : {
       "ft" : 16384,
-      "iS" : 74330,
+      "iS" : 502474,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/soil.jpg",
+      "oAP" : "\/deploy\/img\/hero\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -86,12 +86,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/basics\/tools.jpg" : {
+    "\/deploy\/img\/new\/gallery-1.jpg" : {
       "ft" : 16384,
-      "iS" : 59026,
+      "iS" : 58858,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/basics\/tools.jpg",
+      "oAP" : "\/deploy\/img\/new\/gallery-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -99,12 +99,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/essentials\/plant.jpg" : {
+    "\/deploy\/img\/new\/gallery-2.jpg" : {
       "ft" : 16384,
-      "iS" : 74874,
+      "iS" : 44480,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/essentials\/plant.jpg",
+      "oAP" : "\/deploy\/img\/new\/gallery-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -112,12 +112,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/essentials\/Spray.jpg" : {
+    "\/deploy\/img\/new\/gallery-3.jpg" : {
       "ft" : 16384,
-      "iS" : 133680,
+      "iS" : 87851,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/essentials\/Spray.jpg",
+      "oAP" : "\/deploy\/img\/new\/gallery-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -125,12 +125,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/essentials\/wateringcan.jpg" : {
+    "\/deploy\/img\/new\/gallery-4.jpg" : {
       "ft" : 16384,
-      "iS" : 133315,
+      "iS" : 48356,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/essentials\/wateringcan.jpg",
+      "oAP" : "\/deploy\/img\/new\/gallery-4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -138,22 +138,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/footer\/facebook-brands.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/facebook-brands.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/hero1\/hero1.jpg" : {
+    "\/deploy\/img\/new\/gallery-5.jpg" : {
       "ft" : 16384,
-      "iS" : 397792,
+      "iS" : 41470,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero1\/hero1.jpg",
+      "oAP" : "\/deploy\/img\/new\/gallery-5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -161,12 +151,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/houseplant\/houseplant1.jpg" : {
+    "\/deploy\/img\/planning\/planning-left.jpg" : {
       "ft" : 16384,
-      "iS" : 59762,
+      "iS" : 6214,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/houseplant\/houseplant1.jpg",
+      "oAP" : "\/deploy\/img\/planning\/planning-left.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -174,12 +164,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/houseplant\/houseplant2.jpg" : {
+    "\/deploy\/img\/planning\/planning-left.png" : {
+      "ft" : 32768,
+      "iS" : 20481,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/planning\/planning-left.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/planning\/planning-right.jpg" : {
       "ft" : 16384,
-      "iS" : 89226,
+      "iS" : 10265,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/houseplant\/houseplant2.jpg",
+      "oAP" : "\/deploy\/img\/planning\/planning-right.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -187,119 +190,15 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/houseplant\/houseplant3.jpg" : {
-      "ft" : 16384,
-      "iS" : 81713,
-      "jF" : 0,
+    "\/deploy\/img\/planning\/planning-right.png" : {
+      "ft" : 32768,
+      "iS" : 24324,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/houseplant\/houseplant3.jpg",
+      "oAP" : "\/deploy\/img\/planning\/planning-right.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/inspiration\/garden.jpg" : {
-      "ft" : 16384,
-      "iS" : 40233,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/inspiration\/garden.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/inspiration\/jardim.jpg" : {
-      "ft" : 16384,
-      "iS" : 32866,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/inspiration\/jardim.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/inspiration\/sky.jpg" : {
-      "ft" : 16384,
-      "iS" : 28137,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/inspiration\/sky.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/inspiration\/swirls.jpg" : {
-      "ft" : 16384,
-      "iS" : 45596,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/inspiration\/swirls.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/logo\/FloraMore.jpg" : {
-      "ft" : 16384,
-      "iS" : 15896,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/logo\/FloraMore.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/shadeplants\/bellflower.jpg" : {
-      "ft" : 16384,
-      "iS" : 116345,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/shadeplants\/bellflower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/shadeplants\/flower.jpg" : {
-      "ft" : 16384,
-      "iS" : 164767,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/shadeplants\/flower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/shadeplants\/ladysmantle.jpg" : {
-      "ft" : 16384,
-      "iS" : 142823,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/shadeplants\/ladysmantle.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -312,71 +211,44 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/deploy\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/design\/Donato_N_FinalDesignUpdated.sketch" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/design\/Donato_N_FinalDesignUpdated.sketch",
-      "oF" : 0
-    },
-    "\/dev\/content\/basics.kit" : {
+    "\/dev\/content\/hero-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/basics.html",
+      "oAP" : "\/dev\/content\/hero-2.html",
       "oF" : 0
     },
-    "\/dev\/content\/essentials.kit" : {
+    "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/essentials.html",
+      "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero1.kit" : {
+    "\/dev\/content\/new.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/hero1.html",
+      "oAP" : "\/dev\/content\/new.html",
       "oF" : 0
     },
-    "\/dev\/content\/houseplant.kit" : {
+    "\/dev\/content\/planning.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/houseplant.html",
+      "oAP" : "\/dev\/content\/planning.html",
       "oF" : 0
     },
-    "\/dev\/content\/inspiration.kit" : {
+    "\/dev\/content\/search.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/inspiration.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/shadeplants.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/shadeplants.html",
+      "oAP" : "\/dev\/content\/search.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -570,7 +442,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_basics.scss" : {
+    "\/dev\/scss\/sections\/_hero-2.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -578,13 +450,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_basics.css",
+      "oAP" : "\/dev\/scss\/sections\/_hero-2.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_essentials.scss" : {
+    "\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -592,13 +464,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_essentials.css",
+      "oAP" : "\/dev\/scss\/sections\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_hero1.scss" : {
+    "\/dev\/scss\/sections\/_new.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -606,13 +478,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero1.css",
+      "oAP" : "\/dev\/scss\/sections\/_new.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_houseplant.scss" : {
+    "\/dev\/scss\/sections\/_planning.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -620,13 +492,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_houseplant.css",
+      "oAP" : "\/dev\/scss\/sections\/_planning.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_inspiration.scss" : {
+    "\/dev\/scss\/sections\/_search.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -634,21 +506,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_inspiration.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_shadeplants.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_shadeplants.css",
+      "oAP" : "\/dev\/scss\/sections\/_search.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -667,542 +525,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/deploy\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/header\/logo.jpg" : {
-      "ft" : 16384,
-      "iS" : 12384,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/header\/logo.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 97866,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 50432,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 62129,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/hero-2\/hero-2-3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/hero\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 502474,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/hero\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 58858,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 44480,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 87851,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 48356,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-4.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-5.jpg" : {
-      "ft" : 16384,
-      "iS" : 41470,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/new\/gallery-5.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-left.jpg" : {
-      "ft" : 16384,
-      "iS" : 6214,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-left.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-left.png" : {
-      "ft" : 32768,
-      "iS" : 20481,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-left.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-right.jpg" : {
-      "ft" : 16384,
-      "iS" : 10265,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-right.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-right.png" : {
-      "ft" : 32768,
-      "iS" : 24324,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/img\/planning\/planning-right.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Nicole Donato CSS HW\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/content\/hero-2.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/content\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/content\/hero.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/content\/new.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/content\/new.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/content\/planning.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/content\/planning.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/content\/search.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/content\/search.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/global\/footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/global\/footer.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/global\/head.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/global\/head.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/global\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/global\/header.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/global\/scripts.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/index.html",
-      "oF" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/js\/scripts.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/js\/scripts-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/base\/_base.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/base\/_base.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/base\/_normalize.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/base\/_normalize.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/base\/_typography.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/base\/_typography.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/components\/_buttons.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/components\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/components\/_forms.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/components\/_forms.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/components\/_navigation.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/components\/_navigation.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/helpers\/_mixins.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/helpers\/_mixins.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/helpers\/_variables.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/helpers\/_variables.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/layout\/_footer.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/layout\/_footer.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/layout\/_header.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/layout\/_header.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_hero-2.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_hero-2.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_hero.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_new.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_new.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_planning.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_planning.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_search.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/sections\/_search.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/dev\/scss\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/dev\/scss\/styles.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Nicole Donato CSS HW\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Nicole Donato CSS HW\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     },
     "\/README.md" : {
       "cB" : 0,
@@ -1231,10 +553,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 638898965.76008201,
-    "displayValue" : "Donato_N_Homework",
+    "creationDate" : 640371835.02114797,
+    "displayValue" : "anna-web2-hw-files-main",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-koamaru",
+    "iconImageName" : "brackets-cafe",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
