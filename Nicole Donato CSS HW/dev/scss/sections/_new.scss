@@ -2,29 +2,84 @@
     New
 ============= */
 #new{
+    
+  @include md{
     display: grid;
-  @include sm{
-      img{width: 100%}
-      #gallery-1{
-          display: grid;
-          padding: 16px;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". new .";
+  } 
+
+  @include lg{
+      grid-template-columns: auto 1024px auto;
+  }
+  
+  >div{
+      
+        @include md{
+            grid-area: new;
       }
 
-      #gallery-2{
-          display: grid;
-          padding: 16px;
-      }
-      #gallery-3{
-        display: grid;
-        padding: 16px;
+      ul{
+          
+            @include md{
+              display: grid;
+              grid-template-columns: repeat(4, 1fr);
+              grid-template-areas: "g1 g1 g2 g2"
+              "g3 g3 g4 g4"
+              ". g5 g5 .";
+              gap: 16px;
+          }
+
+          @include lg{
+              grid-template-columns: repeat(6, 1fr);
+              grid-template-areas: "g1 g1 g2 g2 g3 g3"
+              ". g4 g4 g5 g5 .";
+          }
+
+          li{
+              img{
+                  width: 100%;
+              }
+              
+              section{ 
+                  display: grid;
+                  grid-template-columns: 16px auto 16px;
+                  grid-template-areas: ". new-content .";
+                  >div{
+                      grid-area: new-content;
+                  }
+              }
+          }
+
+          #g1{
+              @include md{
+                  grid-area: g1;
+              }
+          }
+
+          #g2{
+              @include md{
+                  grid-area: g2;
+              }
+          }
+
+          #g3{
+              @include md{
+                  grid-area: g3;
+              }
+            }
+            
+            #g4{
+                @include md{
+                    grid-area: g4;
+                }
+            }
+
+            #g5{
+                @include md{
+                    grid-area: g5;
+                }
+            }
+        }
     }
-    #gallery-4{
-        display: grid;
-        padding: 16px;
-    }
-    #gallery-5{
-        display: grid;
-        padding: 16px
-    }
-  }  
 }

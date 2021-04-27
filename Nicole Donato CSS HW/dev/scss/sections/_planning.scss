@@ -3,16 +3,24 @@
 ============= */
 
 #planning{
-    
-    @include sm{
-        display: grid;
-        grid-template-columns: 16px, auto, 16px ;  
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". planning .";
+
+    @include xl{
+        grid-template-columns: auto 1000px auto;
     }
 
     >div{
-        @include sm{
-            display: grid;
-            grid-template-columns: 1fr, 1fr;
+        grid-area: planning;
+
+        ul{
+            @include md{
+                display: grid;
+                grid-template-columns: 50% auto;
+                gap: 16px;
+            }
         }
     }
+
 }
