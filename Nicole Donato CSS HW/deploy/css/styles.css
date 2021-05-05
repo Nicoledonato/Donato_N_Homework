@@ -395,6 +395,7 @@ textarea {
     Header
 ============= */
 header {
+  background-color: #2A3036;
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". header .";
@@ -407,6 +408,8 @@ header > div {
     Footer
 ============= */
 footer {
+  background-color: #2A3036;
+  color: #e0dfd5;
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". footer .";
@@ -485,6 +488,9 @@ footer > div {
     grid-template-columns: 16px auto 16px;
     grid-template-areas: ". hero-content .";
   }
+  #hero section ul {
+    color: #2A3036;
+  }
 }
 @media (min-width: 768px) and (min-width: 768px) {
   #hero section ul {
@@ -497,6 +503,12 @@ footer > div {
   #hero section ul {
     grid-template-columns: 50% auto;
   }
+}
+#hero section #track {
+  background-color: #E2BA06;
+}
+#hero section #location {
+  background-color: #FFD205;
 }
 
 /* =============
@@ -521,6 +533,14 @@ footer > div {
     grid-template-columns: 50% auto;
     gap: 16px;
   }
+}
+#planning #morooka {
+  background-color: #e0dfd5;
+  color: #000;
+}
+#planning #need {
+  background-color: #e0dfd5;
+  color: #000;
 }
 
 /* =============
@@ -602,25 +622,40 @@ footer > div {
 #new > div ul li section > div {
   grid-area: new-content;
 }
+#new > div ul #g1 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #g1 {
     grid-area: g1;
   }
+}
+#new > div ul #g2 {
+  background-color: #F8F9FA;
 }
 @media (min-width: 768px) {
   #new > div ul #g2 {
     grid-area: g2;
   }
 }
+#new > div ul #g3 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #g3 {
     grid-area: g3;
   }
 }
+#new > div ul #g4 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #g4 {
     grid-area: g4;
   }
+}
+#new > div ul #g5 {
+  background-color: #F8F9FA;
 }
 @media (min-width: 768px) {
   #new > div ul #g5 {

@@ -12,6 +12,9 @@
             grid-template-columns: 16px auto 16px;
             grid-template-areas: ". hero-content .";
             ul{ 
+                
+                color: $darkgray;
+        
                 @include md{
                 grid-area: hero-content;
                 display: grid;
@@ -22,6 +25,12 @@
                     grid-template-columns: 50% auto;
                 }
             }
+        }
+        #track{
+            background-color: $darkyellow;
+        }
+        #location{
+            background-color: $yellow;
         }
     }
 }

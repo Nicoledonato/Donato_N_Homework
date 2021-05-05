@@ -3,6 +3,7 @@
 ============= */
 
 header{
+    background-color: $footercolor;
     display: grid;
     grid-template-columns: 16px auto 16px;
     grid-template-areas: ". header .";
