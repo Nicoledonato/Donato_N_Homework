@@ -52,6 +52,8 @@
           }
 
           #g1{
+              //tried this but its now behind the entire box?
+              background-image: url(../img/new/gallery-1.jpg);
               background-color: $lightgray;
               @include md{
                   grid-area: g1;

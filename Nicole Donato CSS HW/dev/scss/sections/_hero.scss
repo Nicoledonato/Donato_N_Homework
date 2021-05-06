@@ -2,9 +2,17 @@
     Hero
 ============= */
 #hero{
-    img{ 
-        width: 100%
+    img{ width: 100%;}
+    //broke it? behind the information that is supposed to go below it.
+    background-image: url('../img/hero/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 252px;
+   
+    @include md{
+        height: 496px;
     }
+    
 
     section{
         @include md{

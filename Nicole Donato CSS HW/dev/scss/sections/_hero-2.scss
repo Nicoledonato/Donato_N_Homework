@@ -2,19 +2,21 @@
     Hero-2
 ============= */
 #hero-2{
-
+    //honestly no idea what I broke here, but very confused.
 
     ul{
         @include md{
         display: grid;
         grid-template-columns: 50% auto;
-    }
+        grid-template-areas: "hero-2-1 hero-2-2"
+        "hero-2-1 hero-2-2";
+        grid-template-rows: repeat(2, 297px) ;
+        }
 
         @include xl{
             grid-template-columns: 70% auto;
             grid-template-areas: "hero-2-1 hero-2-2"
                                 "hero-2-1 hero-2-3";
-
         }
 
 
@@ -25,18 +27,24 @@
         }
 
     #hero-2-1{
+        background-image: url(../img/hero-2/hero-2-1.jpg);
+        background-position: center top;
         @include xl{
             grid-area: hero-2-1;
         }
     }
 
     #hero-2-2{
+        background-image: url(../img/hero-2/hero-2-2.jpg);
+        background-position: center top;
         @include xl{
             grid-area: hero-2-2;
         }
     }
 
     #hero-2-3{
+        background-image: url(../img/hero-2/hero-2-3.jpg);
+        background-position: center top;
         @include xl{
             grid-area: hero-2-3;
         }
